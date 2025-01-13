@@ -7,7 +7,7 @@ weight: 1
 
 # **EMAE 485: Nonlinear Dynamics and Control**
 
-    
+
 ## Course Description
 This course will teach students how to analyze and apply control algorithms for nonlinear systems based on modern best practices. While the course by necessity deals with highly theoretical concepts, these will be approached and developed in the context of relevant issues in application areas of interest, with a particular focus on robotics. Specific goals include (1) introduction to nonlinear dynamics analysis, (2) understanding of mathematical certification for control systems, (3) presentation of modern nonlinear control algorithms and their properties, and (4) applications of the preceding topics to practical problems in robotics and other areas through assignments and exams. 
 
@@ -16,7 +16,7 @@ This course will teach students how to analyze and apply control algorithms for 
 - The class will be Tuesdays and Thursdays from 10-11:15 EST in Glennan 458
 - Office hours are TBD
 - Homework assignments will be due at 23:59 EST two weeks after they are assigned.
-- Github will be used to distribute and collect homework.
+- Homework will be distributed, completed, and collected using Colab.
 - [Teams](https://teams.microsoft.com/v2/) will serve as our discussion platform
 
 
@@ -47,7 +47,7 @@ Online Notes:
 - Sergey Levine’s Course Notes on Deep Reinforcement Learning: https://rail.eecs.berkeley.edu/deeprlcourse/ 
 
 ## Homework
-Homework will be distributed and collected via GitHub.
+Homework will be distributed, completed, and collected via Colab.
 
 ## Grading
 
