@@ -69,6 +69,7 @@ The goal of the class project is to get students to apply concepts from the cour
 **Accommodations for Students with Disabilities:** In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must present a memo from Disability Resources in Educational Services for Students (ESS). An appointment can be made by visiting ESS in Sears 402, calling the office at 216-368-5230, or by emailing the office at disability@case.edu. [Click here](https://students.case.edu/academic/disability/getstarted/) for more information on how to begin the process. Please keep in mind that accommodations are not retroactive. For more information, see [this link](https://students.case.edu/education/disability/policies/policy.html).
 
 ## Schedule
+Specific topics on specific days  are tentative and subject to change.
 
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |

@@ -1,19 +1,40 @@
 ---
-layout: default
+layout: page
 title: Lectures
 permalink: /lectures/
 # external_url: https://google.com/
 weight: 5
 ---
-<br>
 
-Material from lecture including Slides and Code will be posted here following each lecture
 
-<!-- | Week      | Topics | Links |
+This schedule is tentative and subject to change. Material from lecture including Slides and Code will be posted here following each lecture
+
+| Lecture      | Topics | Course Material | Supplemental Material |
+| ----------- | ----------- | --------------------- | ----------- |
+| 1   | Course overview & nonlinear dynamics intro |  | Ch. 1 Khalil, [Ch. 1 Tedrake](https://underactuated.csail.mit.edu/intro.html), [Lec1 Tedrake](https://www.youtube.com/watch?v=uyyBT-MHhLE&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s) |
+| 2   | Nonlinear systems analysis |  | Ch. 2.0-2.3 Khalil, [Ch. 2 Tedrake](https://underactuated.csail.mit.edu/pend.html), [Lec2 Tedrake](https://www.youtube.com/watch?v=l2CwE3Wf7ww&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=2) |
+| 3   | Intro to Lyapunov |  | Ch. 3.1, 3.4, 4.0, 4.1 Khalil, [Ch. 9.1 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
+| 4   | Lyapunov Stability |  | Ch. 4.0, 4.1 Khalil, [Ch. 9.1 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
+| 5   | Invariance |  | Ch. 4.2, 4.3 Khalil, [Ch. 9.1.2 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
+| 6   | Time Varying Systems |  | Ch. 4.4, 4.5, 8.3 Khalil, [Ch. 9.1.2 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
+| 7   | Intro to Robot Control |  | Ch. 5 MLS, [Ch. 3 Tedrake](https://underactuated.csail.mit.edu/acrobot.html), [Lec5 Tedrake](https://www.youtube.com/watch?v=UBPL0IbyJy4&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=5) |
+| 8   | QPs, CLFs, CBFs |  | [Nyguyen and Sreenath](https://hybrid-robotics.berkeley.edu/publications/ACC2022_L1_Adaptive_CBF.pdf) |
+| 9   | Dynamic Programming |  | [Ch. 7 Tedrake](https://underactuated.csail.mit.edu/dp.html), [Lec3 Tedrake](https://www.youtube.com/watch?v=GPvw92IKO44&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=3), [Lec4 Tedrake](https://www.youtube.com/watch?v=GElVy0WTOys&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=5) |
+| 10   | LQR |  | [Ch. 8 Tedrake](https://underactuated.csail.mit.edu/dp.html), [Lec4 Tedrake](https://www.youtube.com/watch?v=GPvw92IKO44&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=4), [Lec6 Tedrake](https://www.youtube.com/watch?v=GElVy0WTOys&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=6) |
+| 11   | Trajectory Optimization |  | [Ch. 10 Tedrake](https://underactuated.csail.mit.edu/trajopt.html), [Lec10 Tedrake](https://www.youtube.com/watch?v=GPvw92IKO44&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=10), [Lec11 Tedrake](https://www.youtube.com/watch?v=GElVy0WTOys&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=11) |
+| 12   | Trajectory Optimization |  | [Ch. 10 Tedrake](https://underactuated.csail.mit.edu/trajopt.html), [Lec10 Tedrake](https://www.youtube.com/watch?v=GPvw92IKO44&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=10), [Lec11 Tedrake](https://www.youtube.com/watch?v=GElVy0WTOys&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=11) |
+
+
+### Bibliography:
+Khalil: [Nonlinear Systems](https://flyingv.ucsd.edu/krstic/files/Khalil-3rd.pdf), Prentice Hall, 3nd Edition, 2002
+MLS: [A Mathematical Introduction to Robotic Manipulation](https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf), CRC Press, 2017
+
+
+
+
+<!-- | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
-| 1   | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
-| 1   | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
-
+| 1      | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
 | 2   | Jan 21 <br><br> Jan 23 | Intro to Lyapunov <br><br> Lyapunov Stability | HW1 Out |
 | 3   | Jan 28 <br><br> Jan 30 | Invariance & Time Varying Systems <br><br> Time Varying Systems (cont.) |  |
 | 4   | Feb 04 <br><br> Feb 06 | Model Systems & Robot Control <br><br> QPs, CLFs, CBFs | HW1 Due, HW2 Out |
