@@ -26,8 +26,9 @@ This schedule is tentative and subject to change. Material from lecture includin
 
 
 ### Bibliography:
-Khalil: [Nonlinear Systems](https://flyingv.ucsd.edu/krstic/files/Khalil-3rd.pdf), Prentice Hall, 3nd Edition, 2002
-MLS: [A Mathematical Introduction to Robotic Manipulation](https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf), CRC Press, 2017
+- Khalil: [Nonlinear Systems](https://flyingv.ucsd.edu/krstic/files/Khalil-3rd.pdf), Prentice Hall, 3nd Edition, 2002
+- MLS: [A Mathematical Introduction to Robotic Manipulation](https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf), CRC Press, 2017
+<!-- - Tedrake: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation (Course Notes for MIT 6.832). -->
 
 
 
