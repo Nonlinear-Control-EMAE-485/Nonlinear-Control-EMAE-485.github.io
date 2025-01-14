@@ -42,9 +42,9 @@ Textbooks:
 - Sutton, Richard S., Barto, Andrew G.: [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf), A Bradford Book, 2018 
 
 Online Notes:
-- Russ Tedrake’s Underactuated Robotics Notes: https://underactuated.mit.edu/ 
-- Hassan Khalil’s website including lecture notes and exercises: https://www.egr.msu.edu/~khalil/ 
-- Sergey Levine’s Course Notes on Deep Reinforcement Learning: https://rail.eecs.berkeley.edu/deeprlcourse/ 
+- Russ Tedrake’s Underactuated Robotics Notes: [https://underactuated.mit.edu/](https://underactuated.mit.edu/)
+- Hassan Khalil’s website including lecture notes and exercises: [https://www.egr.msu.edu/~khalil/](https://www.egr.msu.edu/~khalil/)
+- Sergey Levine’s Course Notes on Deep Reinforcement Learning: [https://rail.eecs.berkeley.edu/deeprlcourse/](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Homework
 Homework will be distributed, completed, and collected via Colab.
