@@ -17,7 +17,7 @@ This course will teach students how to analyze and apply control algorithms for 
 - Office hours are TBD
 - Homework assignments will be due at 23:59 EST two weeks after they are assigned.
 - Homework will be distributed, completed, and collected using Colab.
-- [Teams](https://teams.microsoft.com/v2/) will serve as our discussion platform
+- [Teams](https://teams.microsoft.com/l/team/19%3A4-xUV-EgB78D1tQHLyrMAQ_mcV1bAg_JJQzgCYWZOG01%40thread.tacv2/conversations?groupId=4e105659-83ba-48ae-b13c-c3eb87825b9f&tenantId=dc1c97ee-7a12-4624-9a01-9ad4f05d1311) will serve as our discussion platform
 
 
 ## Course Objectives
