@@ -11,6 +11,38 @@ weight: 1
 ## Course Description
 This course will teach students how to analyze and apply control algorithms for nonlinear systems based on modern best practices. While the course by necessity deals with highly theoretical concepts, these will be approached and developed in the context of relevant issues in application areas of interest, with a particular focus on robotics. Specific goals include (1) introduction to nonlinear dynamics analysis, (2) understanding of mathematical certification for control systems, (3) presentation of modern nonlinear control algorithms and their properties, and (4) applications of the preceding topics to practical problems in robotics and other areas through assignments and exams. 
 
+## Instructor
+
+<div style="display: flex; align-items: center; justify-content: flex-start; padding: 0; margin: 0;">
+    <img src="headshot_square.png" alt="Profile" style="width: 20%; border-radius: 50%; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex-grow: 1;">
+        <h2 style="margin: 0;">Zach Patterson</h2>
+        <p style="margin: 0;">zpatt@case.edu</p>
+    </div>
+</div>
+
+
+<!-- <div>
+    <img src="headshot_square.png" alt="Profile" style="width: 20%; border-radius: 50%; vertical-align: middle; float:left; margin-right: 20px;">
+    <div style="display: inline-block; vertical-align: middle;">
+        <h2 style="margin: 0;">Your Name</h2>
+        <p style="margin: 0;">your.email@example.com</p>
+    </div>
+</div> -->
+
+<!-- <div class="profile-container">
+    <img src="headshot_square.png" alt="preview" class="profile-image" /> 
+    <div class="profile-info">
+        <h2>Zach Patterson</h2>
+        <p>zpatt@case.edu</p>
+    </div>
+</div> -->
+<!-- <img src="headshot_square.png" alt="preview" style="width: 20%; border-radius: 50%; float:left;" /> 
+
+<!-- Zach Patterson
+<br>
+zpatt@case.edu --> 
+
 
 ## Logistics
 - The class will be Tuesdays and Thursdays from 10-11:15 EST in Glennan 458
