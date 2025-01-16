@@ -105,7 +105,7 @@ Specific topics on specific days  are tentative and subject to change.
 
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
-| 1   | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
+| 1   | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | [HW0](https://colab.research.google.com/drive/1zu_n4oH2tlgyi0YUfUaTItv6abE9Ir9C?usp=sharing) |
 | 2   | Jan 21 <br><br> Jan 23 | Intro to Lyapunov <br><br> Lyapunov Stability | HW1 Out |
 | 3   | Jan 28 <br><br> Jan 30 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability  |  |
 | 4   | Feb 04 <br><br> Feb 06 | Time Varying Systems <br><br> Model Systems & Robot Control | HW1 Due |
