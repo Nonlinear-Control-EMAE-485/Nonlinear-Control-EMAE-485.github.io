@@ -12,7 +12,7 @@ This schedule is tentative and subject to change. Material from lecture includin
 | Lecture      | Topics | Course Material | Supplemental Material |
 | ----------- | ----------- | --------------------- | ----------- |
 | 1   | Course overview & nonlinear dynamics intro |  | Ch. 1 Khalil, [Ch. 1 Tedrake](https://underactuated.csail.mit.edu/intro.html), [Lec1 Tedrake](https://www.youtube.com/watch?v=uyyBT-MHhLE&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s) |
-| 2   | Nonlinear systems analysis |  | Ch. 2.0-2.3 Khalil, [Ch. 2 Tedrake](https://underactuated.csail.mit.edu/pend.html), [Lec2 Tedrake](https://www.youtube.com/watch?v=l2CwE3Wf7ww&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=2) |
+| 2   | Nonlinear systems analysis | [Code](https://colab.research.google.com/drive/1IJAjyV67mHOMTrEGx5ClsEVqnSLQFdTq?usp=sharing) | Ch. 2.0-2.3 Khalil, [Ch. 2 Tedrake](https://underactuated.csail.mit.edu/pend.html), [Lec2 Tedrake](https://www.youtube.com/watch?v=l2CwE3Wf7ww&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=2) |
 | 3   | Intro to Lyapunov |  | Ch. 3.1, 3.4, 4.0, 4.1 Khalil, [Ch. 9.1 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
 | 4   | Lyapunov Stability |  | Ch. 4.0, 4.1 Khalil, [Ch. 9.1 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
 | 5   | Invariance |  | Ch. 4.2, 4.3 Khalil, [Ch. 9.1.2 Tedrake](https://underactuated.csail.mit.edu/lyapunov.html), [Lec7 Tedrake](https://www.youtube.com/watch?v=qbuyy7ZcP9M&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=7) |
