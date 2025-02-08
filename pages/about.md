@@ -112,13 +112,13 @@ Specific topics on specific days  are tentative and subject to change.
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
 | 1   | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | [HW0](https://colab.research.google.com/drive/1zu_n4oH2tlgyi0YUfUaTItv6abE9Ir9C?usp=sharing) |
-| 2   | Jan 21 <br><br> Jan 23 | Intro to Lyapunov <br><br> Lyapunov Stability | HW1 Out |
+| 2   | Jan 21 <br><br> Jan 23 | Intro to Lyapunov <br><br> Lyapunov Stability | <br><br> HW1 Out |
 | 3   | Jan 28 <br><br> Jan 30 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability Wrap Up |  |
-| 4   | Feb 04 <br><br> Feb 06 | Underactuated Systems & Robot Control <br><br> QPs, CLFs, CBFs | HW1 Due |
-| 5   | Feb 11 <br><br> Feb 13 | TBD <br><br> Mid Term | HW2 Out |
-| 6   | Feb 18 <br><br> Feb 20 | Dynamic Programming <br><br> LQR | |
-| 7   | Feb 25 <br><br> Feb 27 | Trajectory Optimization | HW2 Due, HW3 Out |
-| 8   | March 04 <br><br> March 06 | MPC <br><br> Hybrid Systems |  |
+| 4   | Feb 04 <br><br> Feb 06 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | <br><br> HW1 Due |
+| 5   | Feb 11 <br><br> Feb 13 | CBFs, Mid Term Review <br><br> Mid Term | |
+| 6   | Feb 18 <br><br> Feb 20 | Dynamic Programming <br><br> LQR | HW2 Out |
+| 7   | Feb 25 <br><br> Feb 27 | Trajectory Optimization |  |
+| 8   | March 04 <br><br> March 06 | MPC <br><br> Hybrid Systems | HW2 Due, HW3 Out |
 | 9   | March 11 <br><br> March 13 | Spring Break |  |
 | 10   | March 18 <br><br> March 20 | Walking Robots | HW3 Due, HW4 Out |
 | 11   | March 25 <br><br> March 27 | Stochasticity, Adaptivity, Robustness |  |
