@@ -26,12 +26,15 @@ This schedule is tentative and subject to change. Material from lecture includin
 | 13   | MPC/Differential Dynamic Programming | [code](https://github.com/Nonlinear-Control-EMAE-485/EMAE485-demos/blob/main/demo_mpc.ipynb) |  |
 | 14   | DDP | [code](https://github.com/Nonlinear-Control-EMAE-485/EMAE485-demos/blob/main/iLQR_demo.ipynb) | [Ignat Georgiev tutorial](https://www.imgeorgiev.com/2023-02-01-ddp/) [Lec10 Manchester](https://www.youtube.com/watch?v=t0vaNTZIC20&list=PLZnJoM76RM6Jv4f7E7RnzW4rijTUTPI4u&index=10) |
 | 15   | Direct Collocation |  | [Ch. 10 Tedrake](https://underactuated.csail.mit.edu/trajopt.html), [Lec10 Tedrake](https://www.youtube.com/watch?v=GPvw92IKO44&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=10), [Lec11 Tedrake](https://www.youtube.com/watch?v=GElVy0WTOys&list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s&index=11) |
+| 16   | Limit Cycles and Hybrid Systems |  | [Ch. 4 Tedrake](https://underactuated.csail.mit.edu/trajopt.html), [Ch. 17 Tedrake](https://underactuated.csail.mit.edu/contact.html) |
+| 17   | Stabilizing Limit Cycles |  | [Ch. 16 Tedrake](https://underactuated.csail.mit.edu/limit_cycles.html), [Hybrid Zero Dynamics - Westervelt, Grizzle, Koditschek](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1e4aada189d9fc142c88386e5f1eee54de9aaa18) |
 
 
 ### Bibliography:
 - Khalil: [Nonlinear Systems](https://flyingv.ucsd.edu/krstic/files/Khalil-3rd.pdf), Prentice Hall, 3nd Edition, 2002
 - Strogatz: [Nonlinear Dynamics and Chaos](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf), CRC press, 2018 
 - MLS: [A Mathematical Introduction to Robotic Manipulation](https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf), CRC Press, 2017
+- 
 <!-- - Tedrake: Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation (Course Notes for MIT 6.832). -->
 
 
