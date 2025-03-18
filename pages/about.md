@@ -118,13 +118,13 @@ Specific topics on specific days  are tentative and subject to change.
 | 5   | Feb 11 <br><br> Feb 13 | CBFs, Mid Term Review <br><br> Mid Term | |
 | 6   | Feb 18 <br><br> Feb 20 | LQR <br><br> Dynamic Programming | HW2 Out |
 | 7   | Feb 25 <br><br> Feb 27 | MPC <br><br> Trajectory Optimization |  |
-| 8   | March 04 <br><br> March 06 | Trajectory Optimization <br><br> Hybrid Systems | HW2 Due, HW3 Out |
+| 8   | March 04 <br><br> March 06 | Trajectory Optimization <br><br> Hybrid Systems | HW2 Due |
 | 9   | March 11 <br><br> March 13 | Spring Break |  |
-| 10   | March 18 <br><br> March 20 | Walking Robots | HW3 Due, HW4 Out |
+| 10   | March 18 <br><br> March 20 | Walking Robots | HW3 Out |
 | 11   | March 25 <br><br> March 27 | Stochasticity, Adaptivity, Robustness |  |
-| 12   | April 01 <br><br> April 03 | Input-Output Stability <br><br> Output feedback | HW4 Due |
+| 12   | April 01 <br><br> April 03 | Input-Output Stability <br><br> Output feedback | HW3 Due, HW4 Out |
 | 12   | April 08 <br><br> April 10 | Planning with attitude <br><br> RL and Optimal Control |  |
-| 12   | April 15 <br><br> April 17 | Computing Lyapunov Functions |  |
+| 12   | April 15 <br><br> April 17 | Computing Lyapunov Functions | HW4 Due  |
 | 12   | April 22 <br><br> April 24 | TBD <br><br> Project Presentations |  |
 
 
