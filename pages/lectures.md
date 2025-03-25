@@ -29,6 +29,7 @@ This schedule is tentative and subject to change. Material from lecture includin
 | 16   | Limit Cycles and Hybrid Systems |  | [Ch. 4 Tedrake](https://underactuated.csail.mit.edu/trajopt.html), [Ch. 17 Tedrake](https://underactuated.csail.mit.edu/contact.html) |
 | 17   | Stabilizing Hybrid Limit Cycles |  | [Ch. 16 Tedrake](https://underactuated.csail.mit.edu/limit_cycles.html), [Hybrid Zero Dynamics - Westervelt, Grizzle, Koditschek](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1e4aada189d9fc142c88386e5f1eee54de9aaa18) |
 | 18   | MPC and Trajectory optimization through contact |  | [MIT Cheetah 3 - Bledt et al.](https://ieeexplore.ieee.org/abstract/document/8593885), [Ch. 17 Tedrake](https://underactuated.csail.mit.edu/contact.html)|
+| 19   | Hybrid TrajOpt Wrapup, Dealing with Quaternions |  | [Optimization-Based Control for Dynamic Legged Robots - Wensing et al.](https://arxiv.org/pdf/2211.11644), [Planning with Attitute - Jackson, Tracy, and Manchester](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)|
 
 
 ### Bibliography:
