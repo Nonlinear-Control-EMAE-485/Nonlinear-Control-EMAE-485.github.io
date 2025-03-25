@@ -121,11 +121,11 @@ Specific topics on specific days  are tentative and subject to change.
 | 8   | March 04 <br><br> March 06 | Trajectory Optimization <br><br> Hybrid Systems | HW2 Due |
 | 9   | March 11 <br><br> March 13 | Spring Break |  |
 | 10   | March 18 <br><br> March 20 | Walking Robots | HW3 Out |
-| 11   | March 25 <br><br> March 27 | Stochasticity, Adaptivity, Robustness |  |
-| 12   | April 01 <br><br> April 03 | Input-Output Stability <br><br> Output feedback | HW3 Due, HW4 Out |
-| 12   | April 08 <br><br> April 10 | Planning with attitude <br><br> RL and Optimal Control |  |
+| 11   | March 25 <br><br> March 27 |  Planning with attitude <br><br> Stochasticity, Adaptivity, Robustness |  |
+| 12   | April 01 <br><br> April 03 | Stochasticity, Adaptivity, Robustness | HW3 Due, HW4 Out |
+| 12   | April 08 <br><br> April 10 | Output feedback <br><br> RL and Optimal Control |  |
 | 12   | April 15 <br><br> April 17 | Computing Lyapunov Functions | HW4 Due  |
-| 12   | April 22 <br><br> April 24 | TBD <br><br> Project Presentations |  |
+| 12   | April 22 <br><br> April 24 | Project Presentations|  |
 
 
 
