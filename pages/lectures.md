@@ -30,6 +30,8 @@ This schedule is tentative and subject to change. Material from lecture includin
 | 17   | Stabilizing Hybrid Limit Cycles |  | [Ch. 16 Tedrake](https://underactuated.csail.mit.edu/limit_cycles.html), [Hybrid Zero Dynamics - Westervelt, Grizzle, Koditschek](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1e4aada189d9fc142c88386e5f1eee54de9aaa18) |
 | 18   | MPC and Trajectory optimization through contact | [code](https://github.com/Nonlinear-Control-EMAE-485/EMAE485-demos/blob/main/hybrid_trajopt_demo.ipynb) | [MIT Cheetah 3 - Bledt et al.](https://ieeexplore.ieee.org/abstract/document/8593885), [Ch. 17 Tedrake](https://underactuated.csail.mit.edu/contact.html)|
 | 19   | Hybrid TrajOpt Wrapup, Dealing with Quaternions |  | [Optimization-Based Control for Dynamic Legged Robots - Wensing et al.,](https://arxiv.org/pdf/2211.11644) [Planning with Attitute - Jackson, Tracy, and Manchester](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)|
+| 20   | Robust & Adaptive Control |  | Ch. 14.2 Khalil, [Robust CLF Control - Nyguyen and Sreenath,](https://hybrid-robotics.berkeley.edu/publications/RSS2015_RobustCLF_supplement.pdf) [Adaptive CLF Control - Nyguyen and Sreenath](https://hybrid-robotics.berkeley.edu/publications/ACC2015_L1_CLF.pdf)|
+| 21   | Stochastic Robust Control |  | [Ch. 13.4 Tedrake](https://underactuated.csail.mit.edu/robust.html)|
 
 
 ### Bibliography:
