@@ -48,7 +48,6 @@ zpatt@case.edu -->
 - The class will be Tuesdays and Thursdays from 10-11:15 EST in Glennan 458
 - Office hours are TBD
 - Homework assignments will be due at 23:59 EST two weeks after they are assigned.
-- Homework will be distributed, completed, and collected using Colab.
 - [Teams](https://teams.microsoft.com/l/team/19%3A4-xUV-EgB78D1tQHLyrMAQ_mcV1bAg_JJQzgCYWZOG01%40thread.tacv2/conversations?groupId=4e105659-83ba-48ae-b13c-c3eb87825b9f&tenantId=dc1c97ee-7a12-4624-9a01-9ad4f05d1311) will serve as our discussion platform
 
 
@@ -61,7 +60,7 @@ zpatt@case.edu -->
 1. An understanding of the limitations of state of the art control systems 
 
 ## Resources
-Students are not required to purchase a textbook, althought the course will draw heavily from Hassan Khalil's [Nonlinear Systems](https://books.google.com/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ), as well as from Russ Tedrake's [Underactuated Robotics notes](https://underactuated.mit.edu/index.html). 
+Students are not required to purchase a textbook, although the course will draw heavily from Hassan Khalil's [Nonlinear Systems](https://books.google.com/books/about/Nonlinear_Systems.html?id=t_d1QgAACAAJ), as well as from Russ Tedrake's [Underactuated Robotics notes](https://underactuated.mit.edu/index.html). 
 
 Textbooks:
 - Khalil, Hassan: [Nonlinear Systems](https://flyingv.ucsd.edu/krstic/files/Khalil-3rd.pdf), Prentice Hall, 3nd Edition, 2002 (Buy this one if you want a book for your library)
@@ -79,7 +78,7 @@ Online Notes:
 - Sergey Levine’s Course Notes on Deep Reinforcement Learning: [https://rail.eecs.berkeley.edu/deeprlcourse/](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Homework
-Homework will be distributed, completed, and collected via Colab.
+Homework will be distributed via Github.
 
 ## Grading
 
@@ -96,7 +95,7 @@ The goal of the class project is to get students to apply concepts from the cour
 ## Policies
 **Late Assignment Policy:** Students are allowed a budget of 6 late days for turning in homework with no penalty throughout the semester. They may be used together on one assignment, or separately on multiple assignments. Beyond these six days, no other late homework will be accepted. 
 
-**AI Policy:** Students are allowed to use ChatGPT to complete assignments, especially for coding exercises. However, AI (along with any other computing technology), is expressly forbidden during exams. Additionally, even during assignments, students should be cautious of using AI for this course material because un-verified usage is likely to result in wrong answers.
+**AI Policy:** Students are allowed to use large language models (e.g. ChatGPT) to complete assignments, especially for coding exercises. However, AI (along with any other computing technology), is expressly forbidden during exams. Additionally, even during assignments, students should be cautious of using AI for this course material - I have observed that lazy usage without verification will in practice result in bad results and a bad grade.
 
 **Academic Integrity Policy:** Students are strongly encouraged to collaborate on assignments. All students in this course are expected to adhere to University standards of academic integrity.  Cheating, plagiarism, misrepresentation, use of generative artificial intelligence (AI) without instructor permission, and other forms of academic dishonesty will not be tolerated.  This includes, but is not limited to, consulting with another person during an exam, turning in written work that was prepared by someone other than you, making minor modifications to the work of someone else and turning it in as your own, or engaging in misrepresentation in seeking a postponement or extension.  Ignorance will not be accepted as an excuse.  If you are not sure whether something you plan to submit would be considered either cheating or plagiarism, it is your responsibility to ask for clarification. 
 
