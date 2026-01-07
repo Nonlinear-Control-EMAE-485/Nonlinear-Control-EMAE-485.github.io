@@ -85,9 +85,8 @@ Homework will be distributed via Github.
 | Weight      | Deliverable |
 | ----------- | ----------- |
 | 40%      | Homework |
-| 20%   | Final Project |
 | 20%   | Mid Term Exam |
-| 20%   | Final Exam |
+| 40%   | Final Project |
 
 ## Project
 The goal of the class project is to get students to apply concepts from the course on a specific application of their choice. Students may work as individuals or in small groups, but the project is expected to scale with the size of the group. If students have ongoing research, they are welcome to work on that topic as long as the class component of the project is clearly utilizing concepts from the class. Otherwise, students are encouraged to be creative and will be provided with a list of potential ideas. Deliverables for the project will include a brief proposal to initiate the project, several check-ins with the instructor, the primary deliverable, a class paper written in IEEE conference format, and a brief presentation of the results to the class. 
@@ -95,7 +94,7 @@ The goal of the class project is to get students to apply concepts from the cour
 ## Policies
 **Late Assignment Policy:** Students are allowed a budget of 6 late days for turning in homework with no penalty throughout the semester. They may be used together on one assignment, or separately on multiple assignments. Beyond these six days, no other late homework will be accepted. 
 
-**AI Policy:** Students are allowed to use large language models (e.g. ChatGPT) to complete assignments, especially for coding exercises. However, AI (along with any other computing technology), is expressly forbidden during exams. Additionally, even during assignments, students should be cautious of using AI for this course material - I have observed that lazy usage without verification will in practice result in bad results and a bad grade.
+**AI Policy:** Students are allowed to use large language models (e.g. ChatGPT) to complete assignments, especially for coding exercises. However, AI (along with any other computing technology), is expressly forbidden during exams. Additionally, even during assignments, students should be cautious of using AI for this course material - I have observed that lazy usage without verification will in practice result in bad results and a bad grade. 
 
 **Academic Integrity Policy:** Students are strongly encouraged to collaborate on assignments. All students in this course are expected to adhere to University standards of academic integrity.  Cheating, plagiarism, misrepresentation, use of generative artificial intelligence (AI) without instructor permission, and other forms of academic dishonesty will not be tolerated.  This includes, but is not limited to, consulting with another person during an exam, turning in written work that was prepared by someone other than you, making minor modifications to the work of someone else and turning it in as your own, or engaging in misrepresentation in seeking a postponement or extension.  Ignorance will not be accepted as an excuse.  If you are not sure whether something you plan to submit would be considered either cheating or plagiarism, it is your responsibility to ask for clarification. 
 
@@ -110,21 +109,21 @@ Specific topics on specific days  are tentative and subject to change.
 
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
-| 1   | Jan 14 <br><br> Jan 16. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
-| 2   | Jan 21 <br><br> Jan 23 | Intro to Lyapunov <br><br> Lyapunov Stability | <br><br> HW1 Out |
-| 3   | Jan 28 <br><br> Jan 30 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability Wrap Up |  |
-| 4   | Feb 04 <br><br> Feb 06 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | <br><br> HW1 Due |
-| 5   | Feb 11 <br><br> Feb 13 | CBFs, Mid Term Review <br><br> Mid Term | |
-| 6   | Feb 18 <br><br> Feb 20 | LQR <br><br> Dynamic Programming | HW2 Out |
-| 7   | Feb 25 <br><br> Feb 27 | MPC <br><br> Trajectory Optimization |  |
-| 8   | March 04 <br><br> March 06 | Trajectory Optimization <br><br> Hybrid Systems | HW2 Due |
-| 9   | March 11 <br><br> March 13 | Spring Break |  |
-| 10   | March 18 <br><br> March 20 | Walking Robots | HW3 Out |
-| 11   | March 25 <br><br> March 27 |  Planning with attitude <br><br> Stochasticity, Adaptivity, Robustness |  |
-| 12   | April 01 <br><br> April 03 | Stochasticity, Adaptivity, Robustness | HW3 Due, HW4 Out |
-| 12   | April 08 <br><br> April 10 | Output feedback <br><br> RL and Optimal Control |  |
-| 12   | April 15 <br><br> April 17 | Computing Lyapunov Functions | HW4 Due  |
-| 12   | April 22 <br><br> April 24 | Project Presentations|  |
+| 1   | Jan 12 <br><br> Jan 14. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
+| 2   | Jan 19 <br><br> Jan 21 | Intro to Lyapunov <br><br> Lyapunov Stability | <br><br> HW0 Due, HW1 Out |
+| 3   | Jan 26 <br><br> Jan 28 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability Wrap Up |  |
+| 4   | Feb 02 <br><br> Feb 04 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | <br><br> HW1 Due |
+| 5   | Feb 09 <br><br> Feb 11 | CBFs, Mid Term Review <br><br> Mid Term | HW2 Out |
+| 6   | Feb 16 <br><br> Feb 18 | LQR <br><br> Dynamic Programming |  |
+| 7   | Feb 23 <br><br> Feb 25 | MPC <br><br> Trajectory Optimization | HW2 Due, HW3 Out |
+| 8   | March 02 <br><br> March 04 | Trajectory Optimization <br><br> Hybrid Systems |  |
+| 9   | March 09 <br><br> March 11 | Spring Break |  |
+| 10   | March 16 <br><br> March 18 | Walking Robots | HW3 Due, HW4 Out |
+| 11   | March 23 <br><br> March 25 |  Planning with attitude <br><br> Stochasticity, Adaptivity, Robustness |  |
+| 12   | March 31 <br><br> April 01 | Stochasticity, Adaptivity, Robustness | HW4 Due |
+| 12   | April 06 <br><br> April 08 | Output feedback <br><br> RL and Optimal Control |  |
+| 12   | April 13 <br><br> April 15 | Computing Lyapunov Functions |  |
+| 12   | April 20 <br><br> April 22 | Project Presentations|  |
 
 
 
