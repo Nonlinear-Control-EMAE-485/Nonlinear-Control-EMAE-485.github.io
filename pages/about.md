@@ -110,9 +110,9 @@ Specific topics on specific days  are tentative and subject to change.
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
 | 1   | Jan 12 <br><br> Jan 14. | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
-| 2   | Jan 19 <br><br> Jan 21 | Intro to Lyapunov <br><br> Lyapunov Stability | <br><br> HW0 Due, HW1 Out |
+| 2   | Jan 19 <br><br> Jan 21 | Intro to Lyapunov <br><br> Lyapunov Stability | HW0 Due, HW1 Out |
 | 3   | Jan 26 <br><br> Jan 28 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability Wrap Up |  |
-| 4   | Feb 02 <br><br> Feb 04 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | <br><br> HW1 Due |
+| 4   | Feb 02 <br><br> Feb 04 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | HW1 Due |
 | 5   | Feb 09 <br><br> Feb 11 | CBFs, Mid Term Review <br><br> Mid Term | HW2 Out |
 | 6   | Feb 16 <br><br> Feb 18 | LQR <br><br> Dynamic Programming |  |
 | 7   | Feb 23 <br><br> Feb 25 | MPC <br><br> Trajectory Optimization | HW2 Due, HW3 Out |
