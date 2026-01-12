@@ -105,15 +105,15 @@ Please keep in mind that accommodations are not retroactive.
 For further information, see: https://students.case.edu/education/disability/policies/policy.html. 
 
 ## Schedule
-Specific topics on specific days  are tentative and subject to change.
+Schedule is tentative and subject to change.
 
 | Week      | Dates | Topics | Assignments |
 | ----------- | ----------- | ----------- | ----------- |
 | 1   | Jan 13 <br><br> Jan 15 | Course overview & nonlinear dynamics intro <br><br> Nonlinear systems analysis | HW0 |
 | 2   | Jan 20 <br><br> Jan 22 | Intro to Lyapunov <br><br> Lyapunov Stability | HW0 Due, HW1 Out |
 | 3   | Jan 27 <br><br> Jan 29 | Lyapunov Stability & Invariance <br><br> Lyapunov Stability Wrap Up |  |
-| 4   | Feb 03 <br><br> Feb 05 | Underactuated Systems & Robot Control <br><br> QPs, CLFs | HW1 Due |
-| 5   | Feb 10 <br><br> Feb 12 | CBFs, Mid Term Review <br><br> Mid Term | HW2 Out |
+| 4   | Feb 03 <br><br> Feb 05 | Underactuated Systems & Robot Control, Mid Term Review | HW1 Due |
+| 5   | Feb 10 <br><br> Feb 12 | Mid Term <br><br> QPs, CLFs, CBFs, | HW2 Out |
 | 6   | Feb 17 <br><br> Feb 19 | LQR <br><br> Dynamic Programming |  |
 | 7   | Feb 24 <br><br> Feb 26 | MPC <br><br> Trajectory Optimization | HW2 Due, HW3 Out |
 | 8   | March 03 <br><br> March 05 | Trajectory Optimization <br><br> Hybrid Systems |  |
