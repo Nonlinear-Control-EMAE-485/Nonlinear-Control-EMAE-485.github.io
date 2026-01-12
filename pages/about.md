@@ -48,7 +48,7 @@ zpatt@case.edu -->
 - The class will be Tuesdays and Thursdays from 10-11:15 EST in Glennan 458
 - Office hours are TBD
 - Homework assignments will be due at 23:59 EST two weeks after they are assigned.
-- [Teams](https://teams.microsoft.com/l/team/19%3A4-xUV-EgB78D1tQHLyrMAQ_mcV1bAg_JJQzgCYWZOG01%40thread.tacv2/conversations?groupId=4e105659-83ba-48ae-b13c-c3eb87825b9f&tenantId=dc1c97ee-7a12-4624-9a01-9ad4f05d1311) will serve as our discussion platform
+- [Teams](https://teams.microsoft.com/l/team/19%3Axw6ZHsqkQFYHyLjFcTr0LogwoQtx4DWkzV7smA_i3Ms1%40thread.tacv2/conversations?groupId=d8520b3e-9de1-4238-8222-b9224fd71a1c&tenantId=dc1c97ee-7a12-4624-9a01-9ad4f05d1311) will serve as our discussion platform
 
 
 ## Course Objectives
